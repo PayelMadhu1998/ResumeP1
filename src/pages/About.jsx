@@ -39,7 +39,7 @@ function About() {
           ResumeGenius is an open source project. You can find the source code
           on{" "}
           <a
-            href="https://github.com/itsme-Subid/Resume-Builder"
+            href="https://github.com/itsme-payel/Resume-Builder"
             target={"_blank"}
             rel="noreferrer"
           >
@@ -56,11 +56,11 @@ function About() {
         <p>
           ResumeGenius is built by{" "}
           <a
-            href="https://github.com/itsme-Subid"
+            href="https://github.com/itsme-payel"
             target={"_blank"}
             rel="noreferrer"
           >
-            Subid
+            payel
           </a>
           .<br />
           The icons used in ResumeGenius are from{" "}

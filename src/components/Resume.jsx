@@ -178,7 +178,7 @@ function Resume({ data, step, setStep }) {
         <ReactToPrint
           trigger={() => <button type="button">Print this out!</button>}
           content={() => componentRef.current}
-          documentTitle="Resume made by Subid"
+          documentTitle="Resume made by payel"
         />
       </div>
     </div>

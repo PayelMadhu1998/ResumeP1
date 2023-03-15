@@ -1,6 +1,6 @@
-# [ResumeGenius](https://resume-builder-itsme-subid.vercel.app/)
+# [ResumeGenius](https://resume-builder-itsme-payel.vercel.app/)
 
-![](https://raw.githubusercontent.com/itsme-Subid/Resume-Builder/main/theme.png)
+![](https://raw.githubusercontent.com/itsme-payel/Resume-Builder/main/theme.png)
 
 The agenda of this repository is to help others and myself too.
 I personally found it very useful for many times, generally I code a program but forget it very frequently, so this repository help by easy accessibility to my code and also easy to go through the Source code.
@@ -22,5 +22,5 @@ Go to Project Directory and open `Command Prompt`
 ```
 
 ```bash
-  git clone git@github.com:itsme-Subid/Resume-Builder.git
+  git clone git@github.com:itsme-payel/Resume-Builder.git
 ```
