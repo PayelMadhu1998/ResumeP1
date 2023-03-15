@@ -1,62 +1,26 @@
-<div align="center">
+# [ResumeGenius](https://resume-builder-itsme-subid.vercel.app/)
 
-# [WebInRush](https://WebInRush.vercel.app/)
+![](https://raw.githubusercontent.com/itsme-Subid/Resume-Builder/main/theme.png)
 
-![](https://raw.githubusercontent.com/WebInRush/WebInRush/main/preview.webp)
-![](https://img.shields.io/github/license/WebInRush/WebInRush?style=for-the-badge)
-![](https://img.shields.io/github/languages/top/WebInRush/WebInRush?style=for-the-badge)
-![](https://img.shields.io/github/languages/count/WebInRush/WebInRush?style=for-the-badge)
-![](https://img.shields.io/github/languages/code-size/WebInRush/WebInRush?style=for-the-badge)
-![](https://img.shields.io/github/repo-size/WebInRush/WebInRush?style=for-the-badge)
-![](https://img.shields.io/github/last-commit/WebInRush/WebInRush?style=for-the-badge)
-![](https://img.shields.io/github/commit-activity/w/WebInRush/WebInRush?style=for-the-badge)
+The agenda of this repository is to help others and myself too.
+I personally found it very useful for many times, generally I code a program but forget it very frequently, so this repository help by easy accessibility to my code and also easy to go through the Source code.
 
-</div>
+## Installation
 
-Welcome to the WebInRush repository! WebInRush is a website development organization that specializes in creating high-quality, user-friendly websites for its clients. We use modern technologies like next.js, typescript, mongodb and more to build visually stunning websites. Our team has years of experience building beautiful and functional websites for both individuals and businesses. Contact us for a free quote!.
+React has been designed for gradual adoption from the start, and **you can use as little or as much React as you need**:
 
-Contribute to this repository and help us create even more visually stunning and functional websites for our clients. Let's grow together!
+- Use [Online Playgrounds](https://reactjs.org/docs/getting-started.html#online-playgrounds) to get a taste of React.
+- [Add React to a Website](https://reactjs.org/docs/add-react-to-a-website.html) as a `<script>` tag in one minute.
+- [Create a New React App](https://reactjs.org/docs/create-a-new-react-app.html) if you're looking for a powerful JavaScript toolchain.
 
-## Getting Started
+## Clone the project
 
-To get started, you can simply clone this repository and install the dependencies.
-
-### Cloning the Repository
-
-To clone the repository, you will need to have git installed on your machine. Once you have those, you can use the following commands:
+Go to Project Directory and open `Command Prompt`
 
 ```bash
-git clone https://github.com/WebInRush/WebInRush.git
+  cd C:\Users\{User Name}\Documents\{Project Directory}
 ```
-
-### Running the Project
-
-To run the project, you will need to have Node.js and npm or yarn or pnpm installed on your machine. Once you have those, you can use the following commands:
 
 ```bash
-cd WebInRush
-yarn
-yarn run dev
+  git clone git@github.com:itsme-Subid/Resume-Builder.git
 ```
-
-or, if you are using npm:
-
-```bash
-cd WebInRush
-npm install
-npm run dev
-```
-
-or, if you are using pnpm:
-
-```bash
-cd WebInRush
-pnpm install
-pnpm run dev
-```
-
-This will start the development server and you should be able to see the website by visiting http://localhost:3000 in your browser.
-
-## License
-
-This project is licensed under the GPL-3.0 License - see the [LICENSE.md](https://github.com/WebInRush/WebInRush/blob/main/LICENSE) file for details.
